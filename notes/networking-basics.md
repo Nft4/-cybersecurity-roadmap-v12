@@ -11,7 +11,7 @@
 - Throughput is the actual data successfully transferred, and it can be lower than bandwidth.
 - Latency is the delay between sending and receiving data.
 
-- ## Module 2 — Network Devices and Connections
+## Module 2 — Network Devices and Connections
 
 ### Main ideas
 
