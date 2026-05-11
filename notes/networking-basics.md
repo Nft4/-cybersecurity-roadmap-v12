@@ -111,3 +111,13 @@ Different homes and businesses can connect to the internet in different ways.
 In my own words:
 
 A network has end devices, intermediary devices, and connections to other networks. A host is any device that can send or receive data on the network. A server is a host that provides a service. Devices like routers and switches are intermediary devices because they help move data. An ISP connects a home or business network to the internet.
+## Networking Basics — Module 3 Brain Dump
+
+### Module 3 was about common ways devices connect to networks and to each other. Most modern devices have built-in wireless options like 
+Wi-Fi and Bluetooth.
+
+Wi-Fi is used to connect a device to a wireless network, usually through a router or access point. To join a Wi-Fi network, you usually need to know the SSID, which is the network name, and the password/security key.
+
+Bluetooth is different because it is usually used for short-range connections between devices, like headphones, speakers, keyboards, mice, phones, or cars.
+
+The main idea is that devices need some type of connection method before they can communicate or access network resources. For cybersecurity, this matters because every connection method can involve security settings, passwords, encryption, and possible risks if it is configured badly.
