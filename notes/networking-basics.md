@@ -121,3 +121,18 @@ Wi-Fi is used to connect a device to a wireless network, usually through a route
 Bluetooth is different because it is usually used for short-range connections between devices, like headphones, speakers, keyboards, mice, phones, or cars.
 
 The main idea is that devices need some type of connection method before they can communicate or access network resources. For cybersecurity, this matters because every connection method can involve security settings, passwords, encryption, and possible risks if it is configured badly.
+## Module 4: Build a Home Network
+
+Module 4 was about how to build and set up a basic home network. A home network lets devices like computers, phones, printers, consoles, and smart devices connect to each other and access the internet.
+
+A router is the main device that connects the home network to the internet. Many home routers are wireless routers, which means they also provide Wi-Fi for wireless devices.
+
+A switch is different from a router. A switch connects multiple wired devices together inside the same local network using Ethernet cables. It is useful when you need more wired ports than the router provides.
+
+Wi-Fi is based on the IEEE 802.11 standard family. Different Wi-Fi versions, such as 802.11n, 802.11ac, and 802.11ax, can affect speed, range, and performance.
+
+When setting up a home router, important settings include the network name, also called the SSID, the Wi-Fi password, and the wireless security mode. For better security, a home network should use a strong password and modern encryption like WPA2 or WPA3.
+
+Default router settings can be risky because default usernames and passwords are often known or easy to find online. If someone can guess or find the default login, they may be able to access the router settings or connect to the network.
+
+The main cybersecurity lesson is that a home network should not only work, but also be configured securely.
