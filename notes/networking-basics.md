@@ -121,6 +121,7 @@ Wi-Fi is used to connect a device to a wireless network, usually through a route
 Bluetooth is different because it is usually used for short-range connections between devices, like headphones, speakers, keyboards, mice, phones, or cars.
 
 The main idea is that devices need some type of connection method before they can communicate or access network resources. For cybersecurity, this matters because every connection method can involve security settings, passwords, encryption, and possible risks if it is configured badly.
+
 ## Module 4: Build a Home Network
 
 Module 4 was about how to build and set up a basic home network. A home network lets devices like computers, phones, printers, consoles, and smart devices connect to each other and access the internet.
